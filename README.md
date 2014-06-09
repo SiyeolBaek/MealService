@@ -62,3 +62,10 @@ Params
 14 : 광주<br>
 15 : 부산<br>
 16 : 제주도
+
+Contact
+============
+Web : http://siyeol.com<br>
+Blog : http://blog.naver.com/sy0773<br>
+SNS : http://facebook.com/siyeol07<br>
+Mail : qortlduf505@gmail.com
